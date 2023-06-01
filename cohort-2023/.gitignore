@@ -1,10 +1,11 @@
-cohort-2023/01-intro/models
-cohort-2023/homeworks/week2/data
-cohort-2023/homeworks/week2/mlruns
-cohort-2023/homeworks/week2/random-forest-experiments
-cohort-2023/02-tracking/running-mlflow-examples
-cohort-2023/homeworks/week2/output
-/Users/mdurango/Documents/Mlops-datatalk-2023/cohort-2023/homeworks/week2/random-forest-experiments
+01-intro/models
+homeworks/week2/data
+homeworks/week2/mlruns
+homeworks/week2/random-forest-experiments
+02-tracking/running-mlflow-examples
+homeworks/week2/output
+homeworks/week2/random-forest-experiments
+
 
 
 
