@@ -8,6 +8,13 @@ homeworks/week2/random-forest-experiments
 02-tracking/wandb-practice
 02-tracking/running-experiments/mlruns
 03-orchestraction/3.3/mlruns
+03-orchestraction/3.3/models
+02-tracking/mlflow.db
+03-orchestraction/3.3/mlflow.db
+02-tracking/running-mlflow-examples/mlflow.db
+
+
+
 
 
 
