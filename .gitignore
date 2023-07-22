@@ -1,6 +1,7 @@
 data
-models/
+#deployment/web-service/models/
 env/
+deployment/web-service/__pycache__
 
 
 
